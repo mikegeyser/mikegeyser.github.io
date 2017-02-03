@@ -69,6 +69,6 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/mikegeyser/mikegeyser.github.io
+  repo: git@github.com:mikegeyser/mikegeyser.github.io.git
   branch: master
   message: "Deployment."
