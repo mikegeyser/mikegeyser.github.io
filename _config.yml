@@ -69,6 +69,6 @@ theme: chan
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:mikegeyser/mikegeyser.github.io.git
+  repo: https://github.com/mikegeyser/mikegeyser.github.io
   branch: master
   message: "Deployment."
